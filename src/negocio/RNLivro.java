@@ -73,8 +73,6 @@ FUNCIONALIDADES (servem a GUI)
         excluir(a.getCod_li());
     }
     
-    
-    
     /**
      * Faz uma busca no BD por todos os registros
      * @return Lista com todos os objetos
